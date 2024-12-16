@@ -1,6 +1,6 @@
-👋 Hi, I'm Hubert Iglinski
+👋 Hi, I'm Huberto
 
-🎓 Currently working as a Logistics Manager and Adjunct at WSB Merito University in Poznań
+🎓 Currently working as a Logistics Manager
 🌱 I'm a beginner developer exploring the world of programming
 📚 PhD in Transport and Logistics
 🔭 Interested in blockchain technology and smart contracts development
